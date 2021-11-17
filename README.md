@@ -2,6 +2,10 @@
 A memory game website where a user at once, only can flip two cards, if they match user continues to match the other cards, else the two cards turn upside down and user has to try his luck on other two cards hoping for them to match.
 
 This website is built using `React.js`
+## A preview of the website
+![Initial Page](https://github.com/dkgoutham/memory_game_website/blob/master/images/initial.png "Initial Page")
+![Middle Game](https://github.com/dkgoutham/memory_game_website/blob/master/images/middle.png "In between the game")
+![Finished Game](https://github.com/dkgoutham/memory_game_website/blob/master/images/end.png "Finished Game")
 
 ## Setting up the project
 * Install node.js
